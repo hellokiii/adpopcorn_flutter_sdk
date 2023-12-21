@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.dependency 'AdPopcornOfferwall', '~> 4.2.3'
+  s.dependency 'AdPopcornOfferwall', '~> 4.5.0'
   s.platform = :ios, '9.0'
   s.static_framework = true
 
