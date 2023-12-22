@@ -52,7 +52,7 @@ class AdPopcornOfferwallPlugin : FlutterPlugin, MethodCallHandler, ActivityAware
             Adpopcorn.setUserId(activity, call.argument("userId"))
             result.success(null)
         } else if (call.method == "openOfferWall") {
-            Adpopcorn.openCPMOfferWall(activity)
+            Adpopcorn.openOfferWall(activity)
             result.success(null)
         } else if (call.method == "useFlagShowWhenLocked") {
             AdpopcornExtension.useFlagShowWhenLocked(activity, call.argument("flag") ?: false)

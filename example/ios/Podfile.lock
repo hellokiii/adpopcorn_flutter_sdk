@@ -1,5 +1,5 @@
 PODS:
-  - adpopcorn_flutter_sdk (0.9.1):
+  - adpopcorn_flutter_sdk (0.9.3):
     - AdPopcornOfferwall (~> 4.5.0)
     - Flutter
   - AdPopcornOfferwall (4.5.0)
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
     :path: Flutter
 
 SPEC CHECKSUMS:
-  adpopcorn_flutter_sdk: 7d559f690bf4dc2287981819b894c067d239e9b1
+  adpopcorn_flutter_sdk: ee2b7ede96374ee453f33f5c6003a79c85d09dbd
   AdPopcornOfferwall: 33ba41f874db39b571ef9cdde49c672745ce6f55
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
 
